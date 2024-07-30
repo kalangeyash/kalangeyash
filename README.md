@@ -1,3 +1,6 @@
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 # 💫 About Me:
 I am actively enhancing my skills by working on MERN stack projects and embracing continuous learning. Currently, I'm delving into TypeScript, with plans to expand my expertise to NextJS and DevOps in the near future.
 
@@ -15,8 +18,7 @@ I am actively enhancing my skills by working on MERN stack projects and embracin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kalangeyash&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 
