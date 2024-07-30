@@ -19,6 +19,4 @@ I am actively enhancing my skills by working on MERN stack projects and embracin
 ![](https://github-contributor-stats.vercel.app/api?username=kalangeyash&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kalangeyash&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
