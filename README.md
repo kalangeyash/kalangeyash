@@ -15,8 +15,6 @@ I am actively enhancing my skills by working on MERN stack projects and embracin
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalangeyash&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalangeyash&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 
